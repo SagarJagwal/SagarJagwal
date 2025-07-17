@@ -11,7 +11,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">📚 I'm currently learning data science with python.<br>🎯 Goals: Join IT industry, progress in career, and achieve personal growth.<br>📫 How to reach me: <a href="mailto:jagwalsagar@gmail.com">jagwalsagar@gmail.com</a><br>🎲 Fun fact: Did you know? The popular data science library, Pandas, is named after 'Panel Data,' not the bear!</p>
+<p align="left">📚 I'm currently ML Data Associate at Amazon.<br>🎯 Goals: Progress in career, and achieve personal growth.<br>📫 How to reach me: <a href="mailto:jagwalsagar@gmail.com">jagwalsagar@gmail.com</a><br>🎲 Fun fact: Did you know? The popular data science library, Pandas, is named after 'Panel Data,' not the bear!</p>
 
 ###
 
