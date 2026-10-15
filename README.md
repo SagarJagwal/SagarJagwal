@@ -59,7 +59,7 @@
 ## 🤝 Let's connect
 
 <div align="left">
-  <a href="mailto:jagwalsagar@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jagwalsagar@gmail.com&su=Hello%20Sagar">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sagar-jagwal/">
