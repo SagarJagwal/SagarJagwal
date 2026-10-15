@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sagar%20Jagwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=58&descSize=18" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hey+%F0%9F%91%8B+What's+up%3F;Computer+Engineer+from+Pune;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hey+%F0%9F%91%8B+What's+up%3F;Computer+Engineer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,10 +11,9 @@
 ---
 
 ## 👨‍💻 About me
-
-- 🧑‍💻 My name is **Sagar** and I'm a Computer Engineer from **Pune**.
-- 📚 I'm currently an **ML Data Associate at Amazon**.
-- 🎯 Goals: progress in my career and achieve personal growth.
+- Ex - Amazon
+- 📚 I have more than a year experience as **ML Data Associate**.
+- 🎯 Goals: Progress in my career and achieve personal growth.
 - 📫 How to reach me: [jagwalsagar@gmail.com](mailto:jagwalsagar@gmail.com)
 - 🎲 **Fun fact:** The popular data science library Pandas is named after *"Panel Data"*, not the bear!
 
@@ -47,12 +46,12 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SagarJagwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarJagwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarJagwal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
@@ -63,7 +62,7 @@
   <a href="mailto:jagwalsagar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/sagar-jagwal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
