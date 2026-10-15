@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sagar%20Jagwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20ML%20Data%20Associate&descAlignY=58&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sagar%20Jagwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=58&descSize=18" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hey+%F0%9F%91%8B+What's+up%3F;Computer+Engineer+from+Pune;ML+Data+Associate+at+Amazon;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hey+%F0%9F%91%8B+What's+up%3F;Computer+Engineer+from+Pune;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
